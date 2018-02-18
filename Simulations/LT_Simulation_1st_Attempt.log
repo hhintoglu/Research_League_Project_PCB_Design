@@ -1,0 +1,21 @@
+Circuit: * C:\Users\hhint\Desktop\HH_3-2\Research League\Research_League_Project_PCB_Design\LT_Simulation_1st_Attempt.asc
+
+Direct Newton iteration for .op point succeeded.
+
+Date: Mon Feb 19 00:45:31 2018
+Total elapsed time: 0.045 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 4063
+traniter = 4052
+tranpoints = 2027
+accept = 1574
+rejected = 453
+matrix size = 16
+fillins = 13
+solver = Normal
+Matrix Compiler1: 1.17 KB object code size  0.6/0.2/[0.1]
+Matrix Compiler2: 1.38 KB object code size  0.2/0.2/[0.2]
+
